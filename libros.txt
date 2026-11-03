@@ -1,0 +1,12 @@
+('La divina comedia', 'La metamorfosis', 'Apocalipsis')
+La divina comedia
+La metamorfosis
+Apocalipsis
+La divina comedia
+La metamorfosis
+Apocalipsis
+
+123
+helloworld
+456
+helloworldprint
